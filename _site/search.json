@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "GISProject",
+    "section": "",
+    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "overview.html",
+    "href": "overview.html",
+    "title": "Overview",
+    "section": "",
+    "text": "Land cover classification is a commonly application area of digial image analysis."
+  },
+  {
+    "objectID": "overview.html#literature-review",
+    "href": "overview.html#literature-review",
+    "title": "Overview",
+    "section": "Literature review",
+    "text": "Literature review\nIn this project, the follow articles will be reviewed."
+  },
+  {
+    "objectID": "overview.html#objectives",
+    "href": "overview.html#objectives",
+    "title": "Overview",
+    "section": "Objectives",
+    "text": "Objectives\nIn this project, we are given two major themes and sub-theme. Detail description of this project is available for this page. The objectives of this project are as follows:\n\nobjective 1\nobjective 2"
+  },
+  {
+    "objectID": "overview.html#tasks",
+    "href": "overview.html#tasks",
+    "title": "Overview",
+    "section": "Tasks",
+    "text": "Tasks\nThe project project tasks are as follows"
+  }
+]
